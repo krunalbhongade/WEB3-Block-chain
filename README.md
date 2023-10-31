@@ -15,4 +15,5 @@
 ![WhatsApp Image 2023-10-17 at 9 33 37 PM](https://github.com/krunalbhongade/WEB3-Block-chain/assets/126875304/02cc1dd9-2501-417e-b711-9372158cff07)
 # 348. Internet Computer(ICP)
 ![WhatsApp Image 2023-10-17 at 9 33 37 PM (1)](https://github.com/krunalbhongade/WEB3-Block-chain/assets/126875304/afe0f327-2f9e-4408-8318-d8d2c3b4450a)
+# ICP
 ![WhatsApp Image 2023-10-17 at 9 33 37 PM (2)](https://github.com/krunalbhongade/WEB3-Block-chain/assets/126875304/b28398a5-9002-4a1b-a9f2-b3d8aad44d07)
